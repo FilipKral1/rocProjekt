@@ -1,0 +1,5 @@
+com/example/bluetoothcontroler/BuildConfig.java
+ com.example.bluetoothcontroler.BuildConfig
+com/example/bluetoothcontroler/MainActivity.java
+ com.example.bluetoothcontroler.MainActivity
+ com.example.bluetoothcontroler.MainActivity$1
