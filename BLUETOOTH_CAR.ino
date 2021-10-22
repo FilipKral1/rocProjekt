@@ -35,7 +35,7 @@ void loop(){
     Stop();
     switch(command){
     case 'F':  
-      forwardRight();
+      forward();
       break;
     case 'B':  
        back();
